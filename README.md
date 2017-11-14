@@ -18,3 +18,16 @@ Compile
 ```
 npm run compile
 ```
+ 
+ 
+ 
+At Last
+---
+ 
+```
+npm start
+```
+
+And
+---
+```Open http://localhost:3000```
